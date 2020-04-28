@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\Weather_1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\Weather_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\Weather_1.csproj",
+        "projectName": "Weather_1",
+        "projectPath": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\Weather_1.csproj",
+        "packagesPath": "C:\\Users\\oleksandr.reshotka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oleksandr.reshotka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://artifactory.global.schindler.com/artifactory/api/nuget/nuget-org": {},
+          "https://artifactory.global.schindler.com/artifactory/api/nuget/nuget-schindler": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.7.82, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

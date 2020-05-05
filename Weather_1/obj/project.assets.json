@@ -2682,11 +2682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\Weather_1.csproj",
+      "projectUniqueName": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\weather\\Weather_1\\Weather_1.csproj",
       "projectName": "Weather_1",
-      "projectPath": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\Weather_1.csproj",
+      "projectPath": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\weather\\Weather_1\\Weather_1.csproj",
       "packagesPath": "C:\\Users\\oleksandr.reshotka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\Weather_1\\obj\\",
+      "outputPath": "C:\\Users\\oleksandr.reshotka\\source\\repos\\Weather_1\\weather\\Weather_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

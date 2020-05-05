@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeatherJSon
 {
-    class coord
+    class Coord
     {
         public double lat { get; set; } 
         public double lon { get; set; } 

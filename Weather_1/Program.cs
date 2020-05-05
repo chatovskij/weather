@@ -34,7 +34,7 @@ namespace Weather_1
 
                 req.ContentType = "application/x-www-urlencoded";
 
-                openweather openweather;
+                Openweather openweather;
 
                 WebResponse response = req.GetResponse();
 
@@ -48,7 +48,7 @@ namespace Weather_1
                 }
                 response.Close();
 
-                openweather = JsonConvert.DeserializeObject<openweather>(str);
+                openweather = JsonConvert.DeserializeObject<Openweather>(str);
 
                 if (args.Length == 0)
                 {

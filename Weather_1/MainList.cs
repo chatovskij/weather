@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeatherJSon
 {
-    class main
+    class MainList
     {
         public double temp { get; set; }
         public int pressure { get; set; }

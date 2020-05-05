@@ -7,7 +7,7 @@ using System.Drawing;
 
 namespace WeatherJSon
 {
-    class weather
+    class Weather
     {
         public int id { get; set; }
         public string main { get; set; }

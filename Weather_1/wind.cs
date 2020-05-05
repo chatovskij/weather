@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeatherJSon
 {
-    class wind
+    class Wind
     {
         public int speed { get; set; }
         public int deg { get; set; }

@@ -23,8 +23,8 @@ namespace Weather_1
 
             try
             {
-                string str1 = "";
-                string str = await Request.Request.UrlRequestAsync(location, str1);
+                string str = "";
+                str = await Request.Request.UrlRequestAsync(location, str);
 
                 Openweather openweather;
 

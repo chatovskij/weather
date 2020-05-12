@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 //
-namespace WeatherJSon
+namespace Weather_1
 {
     class Weather
     {

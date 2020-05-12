@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 //test
-namespace WeatherJSon
+namespace Weather_1
 {
     class Coord
     {

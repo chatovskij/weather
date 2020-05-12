@@ -1,0 +1,14 @@
+.idea/
+.vs/
+**/bin/*
+**/obj/*
+
+*.user
+*~
+packages/
+*.nupkg
+*.swp
+*.Cache
+*.DotSettings
+
+docs/build

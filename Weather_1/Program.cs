@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 using System.Net;
-using WeatherJSon;
+using Weather_1;
 //
 namespace Weather_1
 {
